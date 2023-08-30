@@ -15,7 +15,7 @@ TODO: Create a proper documentation here. Adding image gallery examples.
 The purpose of this web is to make the memory of a summer internships at the university of Zaragoza in the area of nuclear and particle physics.Specifically the axions group, making improvements in the code for graphing the experiments, and the creation of an interactive application to label the graphs.
 
 
-![Axion Photon Large Panorama](Javatrain/plots\/abeled/AxionPhoton_large_panorama.png)
+![Axion Photon Large Panorama](Javatrain/plots/Labeled/AxionPhoton_large_panorama.png)
 
 ![Axion Photon Panorama](Javatrain/plots/Labeled/AxionPhoton_panorama.png)
 
