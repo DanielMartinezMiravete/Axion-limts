@@ -8,7 +8,13 @@ python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon
 python3 Plot_Axion_Electron.pt  #To plot Axion Electron
 
 ```
-python3 
+
+
+
+TODO: Create a proper documentation here. Adding image gallery examples.
+The purpose of this web is to make the memory of a summer internships at the university of Zaragoza in the area of nuclear and particle physics.Specifically the axions group, making improvements in the code for graphing the experiments, and the creation of an interactive application to label the graphs.
+
+
 ![Axion Photon Large Panorama](Javatrain\plots\Labeled\AxionPhoton_large_panorama.png)
 
 ![Axion Photon Panorama](Javatrain\plots\Labeled\AxionPhoton_panorama.png)
@@ -17,8 +23,6 @@ python3
 
 ![Axion Photon Helioscopes](Javatrain\plots\Labeled\AxionPhoton_haloscopes.png)
 
-
-TODO: Create a proper documentation here. Adding image gallery examples.
 
 TODO: Add few parameters to avoid commenting/discommenting code, enable batch mode, plot saving, etc.
 
