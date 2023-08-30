@@ -5,7 +5,7 @@ To regenerate plots use:
 
 ```
 python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon 
-python3 Plot_Axion_Electron.pt  #To plot Axion Electron
+python3 Plot_Axion_Electron.py  #To plot Axion Electron
 
 ```
 
