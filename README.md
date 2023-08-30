@@ -21,7 +21,7 @@ The purpose of this web is to make the memory of a summer internships at the uni
 
 ![Axion Photon Helioscopes](Javatrain\plots\Labeled\AxionPhoton_helioscopes.png)
 
-![Axion Photon Helioscopes](Javatrain\plots\Labeled\AxionPhoton_haloscopes.png)
+![Axion Photon Helioscopes](Javatrain/plots/Labeled/AxionPhoton_haloscopes.png)
 
 
 TODO: Add few parameters to avoid commenting/discommenting code, enable batch mode, plot saving, etc.
