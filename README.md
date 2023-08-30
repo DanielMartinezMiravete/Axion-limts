@@ -9,13 +9,13 @@ python3 Plot_Axion_Electron.pt  #To plot Axion Electron
 
 ```
 python3 
-![Axion Photon Large Panorama](plots/AxionPhoton/AxionPhoton_large_panorama.png)
+![Axion Photon Large Panorama](plots/AxionPhoton_large_panoramalabeled.pdf)
 
-![Axion Photon Panorama](plots/AxionPhoton/AxionPhoton_panorama.png)
+![Axion Photon Panorama](plots/AxionPhoton_panoramalabeled.pdf)
 
-![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_helioscopes.png)
+![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_helioscopeslabeled.pdf)
 
-![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_haloscopes.png)
+![Axion Photon Helioscopes](plots/AxionPhoton/AxionPhoton_haloscopeslabeled.pdf)
 
 TODO: Create a proper documentation here. Adding image gallery examples.
 
