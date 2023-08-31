@@ -18,7 +18,7 @@ Here There are a the graphs made by de code, I only recreate the Axion Photon Co
 
 # Basic Plot
 ---
-[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg">](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/AxionPhoton.png)
+[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg">]((https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg))
 ## Basic plot without proyections
 ### [Download (.pdf)]()
 ### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_large_panorama.png)
