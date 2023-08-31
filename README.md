@@ -17,25 +17,21 @@ The purpose of this web is to make the memory of a summer internships at the uni
 Here There are a the graphs made by de code, I only recreate the Axion Photon Coupling without its proyections:
 
 # Basic Plot
+---
+[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg">](https://github.com/cajohare/AxionLimits/raw/master/plots/plots_png/AxionPhoton.png)
+## Basic plot without proyections
+### [Download (.pdf)]()
+### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_large_panorama.png)
+### [Download (.svg)]()
+## Basic plot with projections
+### [Download (.pdf)]()
+### [Download (.png)]()
+### [Download (.svg)]()
 
-Here we have the basic plot of the whole panorama of Axion Photon experiments.
 
-## Plot
+### &nbsp;
 
-![Basic Plot](plots/AxionPhoton_large_panoramalabeled.pdf)
-
-## Plot with projections
-
-![Plot with projections](ruta/a/imagen.png)
-
-## Plot of dimensionless coupling
-
-![Plot of dimensionless coupling](ruta/otra/imagen.png)
-
-## Plot of dimensionless coupling with projections
-
-![Plot of dimensionless coupling with projections](ruta/otra/imagen.png)
-
+---
 
 
 
