@@ -1,14 +1,6 @@
 # iaxo-axion-limits
 IAXO Axion Limits
 
-To regenerate plots use:
-
-```
-python3 Plot_Axion_Photon.py    #To plot all the plots from Axion Photon 
-python3 Plot_Axion_Electron.py  #To plot Axion Electron
-
-```
-
 The purpose of this web is to make the memory of a summer internships at the university of Zaragoza in the area of nuclear and particle physics.Specifically the axions group, making improvements in the code for graphing the experiments, and the creation of an interactive application to label the graphs.
 
 Here There are a the graphs made by de code, I only recreate the Axion Photon Coupling without its proyections:
