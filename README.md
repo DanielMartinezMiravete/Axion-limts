@@ -27,13 +27,13 @@ Here There are a the graphs made by de code, I only recreate the Axion Photon Co
 
 # Close up General Plot
 ---
-[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg">](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_panorama.svg)
+[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_panorama.svg">](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_panorama.svg)
 
 ## Close up General plot without proyections
 
-### [Download (.pdf)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_large_panoramalabeled.pdf)
-### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_large_panorama.png)
-### [Download (.svg)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_large_panorama.svg)
+### [Download (.pdf)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_panoramalabeled.pdf)
+### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_panorama.png)
+### [Download (.svg)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_panorama.svg)
 
 ### &nbsp;
 
