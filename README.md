@@ -1,9 +1,11 @@
 # iaxo-axion-limits
 IAXO Axion Limits
 
-The purpose of this web is to make the memory of a summer internships at the university of Zaragoza in the area of nuclear and particle physics.Specifically the axions group, making improvements in the code for graphing the experiments, and the creation of an interactive application to label the graphs.
+The purpose of this website is to document a summer internship at the University of Zaragoza in the field of nuclear and particle physics, specifically within the axions group. During the internship, improvements were made to the code for plotting experiments, and an interactive application was created to label the graphs.
 
-Here There are a the graphs made by de code, I only recreate the Axion Photon Coupling without its proyections:
+The graphs presented here are the results of the code, featuring the Axion Photon Coupling without its projections.
+
+**Creator: Daniel Martinez Miravete**
 
 # Basic Plot
 ---
