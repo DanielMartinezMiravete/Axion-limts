@@ -37,6 +37,29 @@ Here There are a the graphs made by de code, I only recreate the Axion Photon Co
 
 ### &nbsp;
 
+# Close up Helioscopes Plot
+---
+[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_helioscopes.svg">](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_helioscopes.svg)
+
+## Close up Helioscopes plot without proyections
+
+### [Download (.pdf)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_helioscopeslabeled.pdf)
+### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_helioscopes.png)
+### [Download (.svg)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_helioscopes.svg)
+
+### &nbsp;
+# Close up Halocopes Plot
+---
+[<img align="right" height="250" src="Javatrain/plots/Labeled/AxionPhoton_haloscopes.svg">](https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/plots/Labeled/AxionPhoton_haloscopes.svg)
+
+## Close up Haloscopes plot without proyections
+
+### [Download (.pdf)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_haloscopeslabeled.pdf)
+### [Download (.png)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_haloscopes.png)
+### [Download (.svg)](https://github.com/DanielMartinezMiravete/Axion-limts/raw/main/Javatrain/plots/Labeled/AxionPhoton_haloscopes.svg)
+
+### &nbsp;
+
 ---
 
 Para recreaer estas imagenes necesitamos ejecutar en python el programa llamado PlotAxionPhoton.py 
