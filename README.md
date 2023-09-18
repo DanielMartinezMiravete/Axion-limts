@@ -59,9 +59,9 @@ Para recreaer estas imagenes necesitamos ejecutar en python el programa llamado 
 python3 PlotAxionPhoton.py    #To plot all the plots from Axion Photon 
 ```
 Este ploteará todos los tipos de graficas listadas sin sus proyecciones para ello debemos modificar en PlotAxionPhoton.py el parametro "Proyections" y darle el valor Verdadero
-Estas graficas se generaran sin etiquetas ya que tenemos una aplicacion web capaz de ponerselas de maner interactiva.
+Estas graficas se generaran diractamente sin etiquetas ya que tenemos una aplicacion web capaz de ponerselas de maner interactiva.
 
-[Nombre del Enlace]([URL de tu página web](http://htmlpreview.github.io/?https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/svg/index.html))
+([APP WEB](http://htmlpreview.github.io/?https://github.com/DanielMartinezMiravete/Axion-limts/blob/main/Javatrain/svg/index.html))
 
 
 Esta apliaccion es unicamente capaz de modificar SVG los cuales se generan automaticamente juntos con los pdf's al ejecutar el script de python, las instrucciones de la pagina web estan en ella misma.
